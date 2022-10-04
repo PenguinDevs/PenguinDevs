@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /> <b>PenguinDevs#2500</b> </a>
 </p>
 
-![PenguinDevs GitHub stats](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api?username=PenguinDevs&count_private=true&hide=contribs&include_all_commits=true)
-[![Top Langs](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api/top-langs/?username=PenguinDevs&count_private=true)](https://github.com/PenguinDevs/github-readme-stats)
+![Top Langs](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api/top-langs/?username=PenguinDevs&count_private=true)
