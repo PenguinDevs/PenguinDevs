@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /> <b>PenguinDevs#2500</b> </a>
 </p>
 
-![Top Langs](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api/top-langs/?username=PenguinDevs&count_private=true)
+![Top Langs](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api/top-langs/?username=PenguinDevs&count_private=true&theme=dark&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">(In order of most skilled to less)</h5>
