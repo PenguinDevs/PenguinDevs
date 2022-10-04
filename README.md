@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/penguindevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="penguindevs" height="30" width="40" /> <b>@PenguinDevs</b> </a>
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /> <b>PenguinDevs#2500</b> </a>
 </p>
+
+![Top Langs](https://github-readme-stats-70g4fv0bf-penguindevs.vercel.app/api/top-langs/?username=PenguinDevs&count_private=true)
