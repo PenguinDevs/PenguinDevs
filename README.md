@@ -12,7 +12,10 @@
         <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/PenguinDevs">
       </a>
       <a href="https://www.linkedin.com/in/jason-yi-penguindevs/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/Profile-LinkedIn-blue">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue">
+      </a>
+      <a href="https://penguindevs.me/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/Projects-purple">
       </a>
     </p>
   </div>
