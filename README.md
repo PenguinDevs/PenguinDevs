@@ -1,7 +1,7 @@
 <a href="https://github.com/PenguinDevs/PenguinDevs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguinDevs/PenguinDevs/main/dark_mode.svg">
-    <img alt="PenguinDevs's GitHub Profile README" src="https://raw.githubusercontent.com/PenguinDevs/PenguinDevs/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguinDevs/PenguinDevs/main/dark-mode.svg">
+    <img alt="PenguinDevs's GitHub Profile README" src="https://raw.githubusercontent.com/PenguinDevs/PenguinDevs/main/light-mode.svg">
   </picture>
   <div align="center">
     <p>
