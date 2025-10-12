@@ -79,12 +79,12 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">XML, JSON, YAML, TOML, LaTeX</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">English, Korean</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Tech</tspan>.<tspan class="key">Roblox</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Roblox Studio, Nevermore, Knit</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Tech</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Docker, Git, GitHub, React, Postman</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">MongoDB, PostgreSQL, MariaDB, Supabase</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Tech</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Docker, Git, GitHub, React, Postman, Blender</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> . </tspan><tspan class="value">MongoDB, PostgreSQL, MariaDB, Supabase, Redis</tspan>
 <tspan x="390" y="310" class="cc">. </tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Home Labbing, Hardware, Gaming</tspan>
 <tspan x="390" y="370">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">jasonyi1413@gmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">contact@penguindevs.me</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">ValoTracker</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">penguindevs@valotracker.com</tspan>
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">jason-yi-penguindevs</tspan>
 <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">penguindevs</tspan>
