@@ -544,13 +544,15 @@ def force_close_file(data: list[str], cache_comment: list[str]) -> None:
     )
 
 
-def stars_counter(data: list[dict[str, Any]]) -> int:
+def stars_counter(data: list[dict[str, Any] | None]) -> int:
     """
     Count total stars in repositories owned by me.
     """
     total_stars = 0
-    for node in data:
-        total_stars += node["node"]["stargazers"]["totalCount"]
+    for edge in data:
+        if edge is None or edge["node"] is None:
+            continue
+        total_stars += edge["node"]["stargazers"]["totalCount"]
 
     return total_stars
 
